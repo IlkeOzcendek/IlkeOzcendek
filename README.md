@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm İlke Özçendek!
 
 🎓 2nd - year Computer Engineering student at TED University  
-📊 Passionate about software development, data systems and problem-solving  
+📊 Passionate about software development, data systems and problem - solving  
 🌱 Currently learning: full - stack web apps, databases, control systems and algorithms  
 🛠️ Tools: C#, C, Java, SQL, Azure, Git, VS Code, Rider
 
