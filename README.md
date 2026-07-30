@@ -6,22 +6,22 @@
 
 <!-- V2 — dashboard-inspired profile. Replace every YOUR_* placeholder before publishing. -->
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td width="64%" valign="top">
-  <img src="./assets/tech-stack-panel.svg" width="100%" alt="Illustrated icons for İlke's AI, backend, data, cloud, and engineering tools." />
+  <img src="./assets/tech-stack-panel.svg" width="1000" alt="Illustrated icons for İlke's AI, backend, data, cloud, and engineering tools." />
 </td>
 <td width="36%" valign="top">
   <a href="https://github.com/IlkeOzcendek/Signify">
-    <img src="./assets/signal-signify.svg" width="100%" alt="Open the Signify signature verification repository." />
+    <img src="./assets/signal-signify.svg" width="540" alt="Open the Signify signature verification repository." />
   </a>
   <br />
   <a href="https://github.com/IlkeOzcendek?tab=repositories">
-    <img src="./assets/signal-repositories.svg" width="100%" alt="Explore İlke's public GitHub repositories." />
+    <img src="./assets/signal-repositories.svg" width="540" alt="Explore İlke's public GitHub repositories." />
   </a>
   <br />
   <a href="https://github.com/IlkeOzcendek?tab=overview">
-    <img src="./assets/signal-contributions.svg" width="100%" alt="View İlke's GitHub contribution activity." />
+    <img src="./assets/signal-contributions.svg" width="540" alt="View İlke's GitHub contribution activity." />
   </a>
 </td>
 </tr>
