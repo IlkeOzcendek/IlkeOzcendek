@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 112" role="img" aria-label="View İlke's GitHub contribution activity">
-  <style>.edge{animation:edge 3.8s ease-in-out 1.3s infinite}@keyframes edge{0%,100%{stroke-opacity:.48;filter:drop-shadow(0 0 0 #F97316)}50%{stroke-opacity:1;filter:drop-shadow(0 0 4px #F97316)}}@media(prefers-reduced-motion:reduce){.edge{animation:none}}</style>
-  <rect width="420" height="112" rx="18" fill="#10120C"/><rect class="edge" x="1" y="1" width="418" height="110" rx="17" fill="none" stroke="#F97316" stroke-width="2"/>
+  <style>.runner{animation:run 3.6s linear 1.2s infinite;filter:drop-shadow(0 0 4px #F97316)}@keyframes run{to{stroke-dashoffset:-1040}}@media(prefers-reduced-motion:reduce){.runner{animation:none}}</style>
+  <rect width="420" height="112" rx="18" fill="#10120C"/><rect x="1" y="1" width="418" height="110" rx="17" fill="none" stroke="#F97316" stroke-width="2" stroke-opacity=".72"/><rect class="runner" x="1" y="1" width="418" height="110" rx="17" fill="none" stroke="#FDBA74" stroke-width="3" stroke-linecap="round" stroke-dasharray="105 935"/>
   <rect x="20" y="20" width="72" height="72" rx="16" fill="#4A241A"/>
   <path d="M36 69l14-17 12 9 15-24" fill="none" stroke="#FDBA74" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M69 37h8v8" fill="none" stroke="#FDBA74" stroke-width="4"/>
   <text x="118" y="48" fill="#F8FAFC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="22" font-weight="700">Contributions</text>
