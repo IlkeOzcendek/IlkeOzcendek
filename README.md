@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="İlke Özçendek — AI and Backend Engineer. Pixel-art-inspired night island, ocean, moon, and lighthouse." />
+  <img src="./assets/hero-workspace.png" width="100%" alt="Pixel-art scene of İlke Özçendek working at a laptop in a cozy night workspace." />
+  <h1>Hi, I’m İlke Özçendek</h1>
+  <h3>AI &amp; Backend Engineer</h3>
+  <p><code>I build intelligent systems that solve real world problems.</code></p>
 </div>
 
 <!-- V2 — dashboard-inspired profile. Replace every YOUR_* placeholder before publishing. -->
