@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/ilke-%C3%B6z%C3%A7endek-b0404433b">
-    <img src="./assets/banner-animated-workspace.svg?v=motion-7" width="100%" alt="İlke Özçendek — AI and Backend Engineer, working at a laptop in an animated pixel-art night workspace." />
+    <img src="./assets/banner-animated-workspace.svg?v=motion-8" width="100%" alt="İlke Özçendek — AI and Backend Engineer, working at a laptop in an animated pixel-art night workspace." />
   </a>
 </div>
 
@@ -13,15 +13,15 @@
 </td>
 <td width="36%" valign="middle">
   <a href="https://github.com/IlkeOzcendek/Signify">
-    <img src="./assets/signal-signify.svg?v=motion-7" width="540" alt="Open the Signify signature verification repository." />
+    <img src="./assets/signal-signify.svg?v=motion-8" width="540" alt="Open the Signify signature verification repository." />
   </a>
   <br />
   <a href="https://github.com/IlkeOzcendek?tab=repositories">
-    <img src="./assets/signal-repositories.svg?v=motion-7" width="540" alt="Explore İlke's public GitHub repositories." />
+    <img src="./assets/signal-repositories.svg?v=motion-8" width="540" alt="Explore İlke's public GitHub repositories." />
   </a>
   <br />
   <a href="https://github.com/IlkeOzcendek?tab=overview">
-    <img src="./assets/signal-contributions.svg?v=motion-7" width="540" alt="View İlke's GitHub contribution activity." />
+    <img src="./assets/signal-contributions.svg?v=motion-8" width="540" alt="View İlke's GitHub contribution activity." />
   </a>
 </td>
 </tr>
