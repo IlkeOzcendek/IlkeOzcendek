@@ -33,7 +33,7 @@
   <a href="https://github.com/IlkeOzcendek?tab=overview">Contributions</a>
 </div>
 
-<img src="./assets/current-mission.svg?v=2" width="100%" alt="Current Mission: Microsoft AI Innovators, Signify, FlyRank, AWS Cloud Club, and reliable AI systems." />
+<img src="./assets/current-mission.svg?v=3" width="100%" alt="Current Mission: Microsoft AI Innovators, Signify, FlyRank, AWS Cloud Club, and reliable AI systems." />
 
 ## `~/expeditions` FEATURED PROJECTS
 
