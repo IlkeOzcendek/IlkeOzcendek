@@ -19,12 +19,12 @@
       .s2{animation-delay:1.2s}.s3{animation-delay:2.4s}
       .water{animation:shift 7s ease-in-out infinite}
       .cursor{animation:blink 1.1s steps(1,end) infinite}
-      .softAction{animation:softAction 4.8s ease-in-out infinite}
+      .softAction{animation:softAction 3.8s ease-in-out infinite}
       .shootingStar{animation:shoot 14s ease-out infinite;opacity:0}
       @keyframes twinkle{50%{opacity:.12}}
       @keyframes shift{50%{transform:translateX(18px)}}
       @keyframes blink{50%{opacity:0}}
-      @keyframes softAction{0%,100%{stroke-opacity:.3}50%{stroke-opacity:1}}
+      @keyframes softAction{0%,100%{stroke-opacity:.48;filter:drop-shadow(0 0 0 #38BDF8)}50%{stroke-opacity:1;filter:drop-shadow(0 0 4px #38BDF8)}}
       @keyframes shoot{0%,76%{opacity:0;transform:translate(0 0)}78%{opacity:1}84%{opacity:0;transform:translate(104px 36px)}100%{opacity:0}}
       @media(prefers-reduced-motion:reduce){.star,.water,.cursor,.softAction,.shootingStar{animation:none}}
     </style>
