@@ -6,7 +6,7 @@
 
 <!-- V2 — dashboard-inspired profile. Replace every YOUR_* placeholder before publishing. -->
 
-<table>
+<table width="100%">
 <tr>
 <td width="64%" valign="top">
   <img src="./assets/tech-stack-panel.svg" width="100%" alt="Illustrated icons for İlke's AI, backend, data, cloud, and engineering tools." />
