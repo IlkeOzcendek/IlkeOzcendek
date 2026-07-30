@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 112" role="img" aria-label="Explore İlke's public GitHub repositories">
-  <style>.edge{animation:edge 7s ease-in-out .9s infinite}.arrow{animation:nudge 3.8s ease-in-out .55s infinite}@keyframes edge{0%,100%{stroke-opacity:.45}50%{stroke-opacity:1}}@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(4px)}}@media(prefers-reduced-motion:reduce){.edge,.arrow{animation:none}}</style>
+  <style>.edge{animation:edge 6s ease-in-out .9s infinite}.arrow{animation:nudge 3.2s ease-in-out .55s infinite}@keyframes edge{0%,100%{stroke-opacity:.3}50%{stroke-opacity:1}}@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(6px)}}@media(prefers-reduced-motion:reduce){.edge,.arrow{animation:none}}</style>
   <rect width="420" height="112" rx="18" fill="#071321"/><rect class="edge" x="1" y="1" width="418" height="110" rx="17" fill="none" stroke="#22D3EE" stroke-width="2"/>
   <rect x="20" y="20" width="72" height="72" rx="16" fill="#0E3B55"/>
   <g transform="translate(38 35)" fill="none" stroke="#67E8F9" stroke-width="3" stroke-linejoin="round"><path d="M0 8h15l5 6h18v25H0z"/><path d="M8 24h22M8 31h15"/></g>
