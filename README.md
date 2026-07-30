@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./assets/banner-workspace.png" width="100%" alt="İlke Özçendek — AI and Backend Engineer, working at a laptop in a pixel-art night workspace." />
+  <a href="https://www.linkedin.com/in/ilke-%C3%B6z%C3%A7endek-b0404433b">
+    <img src="./assets/banner-animated-workspace.svg" width="100%" alt="İlke Özçendek — AI and Backend Engineer, working at a laptop in an animated pixel-art night workspace." />
+  </a>
 </div>
 
 <!-- V2 — dashboard-inspired profile. Replace every YOUR_* placeholder before publishing. -->
