@@ -11,7 +11,7 @@
 <td width="64%" valign="top">
   <img src="./assets/tech-stack-panel.svg" width="1000" alt="Illustrated icons for İlke's AI, backend, data, cloud, and engineering tools." />
 </td>
-<td width="36%" valign="top">
+<td width="36%" valign="middle">
   <a href="https://github.com/IlkeOzcendek/Signify">
     <img src="./assets/signal-signify.svg" width="540" alt="Open the Signify signature verification repository." />
   </a>
