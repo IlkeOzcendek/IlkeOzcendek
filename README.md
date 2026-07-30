@@ -33,13 +33,7 @@
   <a href="https://github.com/IlkeOzcendek?tab=overview">Contributions</a>
 </div>
 
-## `~` CURRENT MISSION
-
-- Building **Signify**, a handwritten signature verification prototype using Siamese neural networks
-- Working as a **Backend AI Engineering Intern at FlyRank**
-- Preparing to join **Microsoft AI Innovators as an incoming intern**
-- Supporting the **AWS Cloud Club at TED University** as Vice President
-- Learning to ship AI systems with reliable backend and cloud infrastructure
+<img src="./assets/current-mission.svg" width="100%" alt="Current Mission: Microsoft AI Innovators, Signify, FlyRank, AWS Cloud Club, and reliable AI systems." />
 
 ## `~/expeditions` FEATURED PROJECTS
 
