@@ -6,32 +6,15 @@
 
 <!-- V2 — dashboard-inspired profile. Replace every YOUR_* placeholder before publishing. -->
 
-<table>
-<tr>
-<td width="62%" valign="top">
+<a href="https://github.com/IlkeOzcendek">
+  <img src="./assets/tech-signal-dashboard.svg" width="100%" alt="İlke's illustrated technology stack and GitHub signal dashboard." />
+</a>
 
-### `>_` TECH STACK
-
-**AI & Machine Learning**  
-`Python` · `PyTorch` · `scikit-learn` · `OpenCV`
-
-**Backend & Data**  
-`FastAPI` · `SQLAlchemy` · `SQLite` · `PostgreSQL`
-
-**Cloud & Engineering**  
-`AWS` · `Docker` · `Linux` · `Git` · `GitHub`
-
-</td>
-<td width="38%" valign="top">
-
-### `◈` GITHUB SIGNAL
-
-<!-- Third-party card: safe to remove if the service is unavailable. -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlkeOzcendek&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=67E8F9&amp;text_color=C9D1D9" width="100%" alt="Most-used languages across İlke's public repositories" />
-
-</td>
-</tr>
-</table>
+<div align="right">
+  <a href="https://github.com/IlkeOzcendek/Signify">Signify</a> ·
+  <a href="https://github.com/IlkeOzcendek?tab=repositories">Repositories</a> ·
+  <a href="https://github.com/IlkeOzcendek?tab=overview">Contributions</a>
+</div>
 
 ## `~` CURRENT MISSION
 
