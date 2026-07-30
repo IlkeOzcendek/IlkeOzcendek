@@ -27,12 +27,6 @@
 </tr>
 </table>
 
-<div align="right">
-  <a href="https://github.com/IlkeOzcendek/Signify">Signify</a> ·
-  <a href="https://github.com/IlkeOzcendek?tab=repositories">Repositories</a> ·
-  <a href="https://github.com/IlkeOzcendek?tab=overview">Contributions</a>
-</div>
-
 <img src="./assets/current-mission.svg?v=3" width="100%" alt="Current Mission: Microsoft AI Innovators, Signify, FlyRank, AWS Cloud Club, and reliable AI systems." />
 
 ## `~/expeditions` FEATURED PROJECTS
