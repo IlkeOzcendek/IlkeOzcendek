@@ -41,18 +41,7 @@
 
 <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/4132e5641422e0c1533a9f09fa4fc538f254de90/assets/project-ml.svg" width="100%" alt="LLRB Tree Visualisation — an interactive data structures project currently in development." />
 
-## `git log --journey`
-
-```text
-TED University ───── Computer Engineering
-       │
-       ├──────────── Control Systems minor
-       ├──────────── TÜRKTRUST · Internship · Signify origin
-       ├──────────── FlyRank · Backend AI Engineering Intern
-       ├──────────── Microsoft AI Innovators · Internship Program
-       ├──────────── AWS Cloud Club · Vice President
-       └──────────── Signify · Continuing development
-```
+<img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/aa748d9a46a7e67ea9146bbc114c0d6ef7afb7f5/assets/journey.svg" width="100%" alt="My journey — education, internships, engineering, community and continuing projects." />
 
 ## `git contributions --animate`
 
