@@ -9,7 +9,7 @@
 <table align="center" width="100%">
 <tr>
 <td width="64%" valign="top">
-  <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/e314d5976b15b9a05dea2b5c6445200fcd4d7160/assets/tech-stack-panel.svg" width="1000" alt="Illustrated icons for İlke's AI, backend, data, cloud, and engineering tools." />
+  <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/23b1aa50284c27d093ffe802627e32c1a64fb16f/assets/tech-stack-panel.svg" width="1000" alt="Illustrated icons for İlke's AI, backend, data, cloud, and engineering tools." />
 </td>
 <td width="36%" valign="middle">
   <a href="https://github.com/IlkeOzcendek/Signify">
