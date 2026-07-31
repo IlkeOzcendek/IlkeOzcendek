@@ -29,63 +29,17 @@
 
 <img src="./assets/current-mission.svg?v=4" width="100%" alt="Current Mission: Microsoft AI Innovators, Signify, FlyRank, AWS Cloud Club, and reliable AI systems." />
 
-## `~/expeditions` FEATURED PROJECTS
+## SELECTED PROJECTS
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/IlkeOzcendek/Signify">
+  <img src="./assets/project-signify.svg?v=selected-1" width="100%" alt="Signify — offline handwritten signature verification with Siamese neural networks." />
+</a>
 
-### 🟣 [Signify](https://github.com/IlkeOzcendek/Signify)
+<a href="https://github.com/IlkeOzcendek/F1-Database-Project">
+  <img src="./assets/project-backend.svg?v=selected-1" width="100%" alt="F1 Database Project — a full-stack Formula 1 database system." />
+</a>
 
-**Handwritten Signature Verification**
-
-An end-to-end prototype using Siamese neural networks, contrastive loss, OpenCV preprocessing, multi-reference comparison, and a local persistence layer.
-
-`Python` `PyTorch` `OpenCV` `Streamlit`  
-`SQLite` `SQLAlchemy`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔵 AI Backend API
-
-**Replaceable project slot**
-
-A future home for a model-serving REST API with authentication, request validation, persistence, and containerized deployment.
-
-`FastAPI` `Docker` `PostgreSQL`  
-_Repository coming soon._
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🟢 AWS Cloud Project
-
-**Replaceable project slot**
-
-A placeholder for a serverless or cloud-native system. Update this card only after the project exists.
-
-`AWS Lambda` `API Gateway` `S3`  
-`DynamoDB` `Infrastructure as Code`  
-_Repository coming soon._
-
-</td>
-<td width="50%" valign="top">
-
-### 🟠 Machine Learning Playground
-
-**Replaceable project slot**
-
-A future collection of focused experiments, notebooks, model implementations, and documented learning projects.
-
-`Python` `PyTorch` `scikit-learn`  
-_Repository coming soon._
-
-</td>
-</tr>
-</table>
+<img src="./assets/project-ml.svg?v=selected-1" width="100%" alt="LLRB Tree Visualisation — an interactive data structures project currently in development." />
 
 ## `git log --journey`
 
