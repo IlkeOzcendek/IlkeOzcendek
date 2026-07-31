@@ -1,13 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 180" role="img" aria-labelledby="t d">
   <title id="t">Formula 1 Database Project</title><desc id="d">Full-stack Formula 1 database system built with C Sharp, Razor Pages and Microsoft SQL Server</desc>
   <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#071321"/><stop offset=".72" stop-color="#0B2033"/><stop offset="1" stop-color="#142B3F"/></linearGradient><filter id="soft"><feGaussianBlur stdDeviation="12"/></filter></defs>
-  <rect width="1000" height="180" rx="22" fill="url(#bg)"/><rect x="1" y="1" width="998" height="178" rx="21" fill="none" stroke="#22D3EE" stroke-width="2" stroke-opacity=".68"/><ellipse cx="900" cy="90" rx="135" ry="72" fill="#22D3EE" opacity=".09" filter="url(#soft)"/>
+  <style>.mist{animation:mist 7.5s ease-in-out infinite}@keyframes mist{0%,100%{opacity:.06;transform:translateX(-16px)}50%{opacity:.16;transform:translateX(18px)}}@media(prefers-reduced-motion:reduce){.mist{animation:none;opacity:.1}}</style>
+  <rect width="1000" height="180" rx="22" fill="url(#bg)"/><rect x="1" y="1" width="998" height="178" rx="21" fill="none" stroke="#22D3EE" stroke-width="2" stroke-opacity=".68"/><ellipse class="mist" cx="900" cy="90" rx="135" ry="72" fill="#F8FAFC" filter="url(#soft)"/>
   <g transform="translate(34 35)">
     <rect width="110" height="110" rx="26" fill="#230B12"/>
-    <path d="M17 35H57L49 45H17ZM17 52H47L39 62H17ZM17 69H37L29 79H17Z" fill="#E10600"/>
-    <path d="M61 34H92L78 51H65L57 61H76L67 73H48Z" fill="#F8FAFC"/>
-    <path d="M80 51H96L73 80H57Z" fill="#E10600"/>
-    <path d="M16 88H92" stroke="#E10600" stroke-width="3" stroke-linecap="round" opacity=".6"/>
+    <path d="M15 35H49M15 45H42M15 55H35" stroke="#E10600" stroke-width="5" stroke-linecap="round"/>
+    <text x="28" y="79" fill="#F8FAFC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="52" font-weight="900" font-style="italic" letter-spacing="-7">F1</text>
+    <path d="M70 35H96L88 45H78ZM76 50H92L84 60H68Z" fill="#E10600"/>
+    <path d="M16 89H94" stroke="#E10600" stroke-width="3" stroke-linecap="round" opacity=".65"/>
   </g>
   <text x="172" y="48" fill="#FB7185" font-family="ui-monospace,monospace" font-size="13" font-weight="700">FULL STACK · DATABASE SYSTEM</text><text x="172" y="83" fill="#F8FAFC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="30" font-weight="750">F1 Database Project</text><text x="172" y="112" fill="#CBD5E1" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">Formula 1 data exploration through a Razor Pages web interface</text>
   <g font-family="ui-monospace,monospace" font-size="13" fill="#CFFAFE"><rect x="172" y="130" width="48" height="27" rx="13" fill="#164E63"/><text x="187" y="148">C#</text><rect x="230" y="130" width="92" height="27" rx="13" fill="#164E63"/><text x="246" y="148">Razor Pages</text><rect x="332" y="130" width="68" height="27" rx="13" fill="#164E63"/><text x="348" y="148">MSSQL</text></g>
