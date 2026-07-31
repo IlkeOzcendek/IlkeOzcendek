@@ -32,14 +32,14 @@
 ## SELECTED PROJECTS
 
 <a href="https://github.com/IlkeOzcendek/Signify">
-  <img src="./assets/project-signify.svg?v=selected-1" width="100%" alt="Signify — offline handwritten signature verification with Siamese neural networks." />
+  <img src="./assets/project-signify.svg?v=selected-2" width="100%" alt="Signify — offline handwritten signature verification with Siamese neural networks." />
 </a>
 
 <a href="https://github.com/IlkeOzcendek/F1-Database-Project">
-  <img src="./assets/project-backend.svg?v=selected-1" width="100%" alt="F1 Database Project — a full-stack Formula 1 database system." />
+  <img src="./assets/project-backend.svg?v=selected-2" width="100%" alt="F1 Database Project — a full-stack Formula 1 database system." />
 </a>
 
-<img src="./assets/project-ml.svg?v=selected-1" width="100%" alt="LLRB Tree Visualisation — an interactive data structures project currently in development." />
+<img src="./assets/project-ml.svg?v=selected-2" width="100%" alt="LLRB Tree Visualisation — an interactive data structures project currently in development." />
 
 ## `git log --journey`
 
