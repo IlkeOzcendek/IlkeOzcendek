@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/ilke-%C3%B6z%C3%A7endek-b0404433b">
-    <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/8af16126fc416cea3362a47ad0108ea30e70a287/assets/banner-animated-workspace.svg" width="100%" alt="İlke Özçendek — AI and Backend Engineer, working at a laptop in an animated pixel-art night workspace." />
+    <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/920fb9cee73b66150a827220c1b4705c30744f01/assets/banner-animated-workspace.svg" width="100%" alt="İlke Özçendek — AI and Backend Engineer, working at a laptop in an animated pixel-art night workspace." />
   </a>
 </div>
 
