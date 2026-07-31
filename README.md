@@ -39,7 +39,7 @@
   <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/4b37c2631a2eae01d9daebf453bbeab3073f6b6e/assets/project-backend.svg" width="100%" alt="F1 Database Project — a full-stack Formula 1 database system." />
 </a>
 
-<img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/f3e115eb4cdbbe5e9d93ce7628d35f5eb81f91e9/assets/project-ml.svg" width="100%" alt="LLRB Tree Visualisation — an interactive data structures project currently in development." />
+<img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/4132e5641422e0c1533a9f09fa4fc538f254de90/assets/project-ml.svg" width="100%" alt="LLRB Tree Visualisation — an interactive data structures project currently in development." />
 
 ## `git log --journey`
 
