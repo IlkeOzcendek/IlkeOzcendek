@@ -67,7 +67,7 @@
     </g>
     <text x="459" y="0">Microsoft AI Innovators</text><text x="459" y="22" fill="#94A3B8">Internship Program</text>
     <g transform="translate(690 -13)" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M3 12.5h10.5a3 3 0 0 0 .4-6A4.8 4.8 0 0 0 4.8 5a3.8 3.8 0 0 0-1.8 7.5Z" stroke="#F8FAFC"/><path d="M4 15c3.2 1.5 7.3 1.4 10-.3" stroke="#FB923C"/>
+      <path d="M3 12.5h10.5a3 3 0 0 0 .4-6A4.8 4.8 0 0 0 4.8 5a3.8 3.8 0 0 0-1.8 7.5Z" stroke="#F8FAFC"/><path d="M4 15c3.2 1.5 7.3 1.4 10-.3" stroke="#F8FAFC"/>
     </g>
     <text x="710" y="0">AWS Cloud Club</text><text x="710" y="22" fill="#94A3B8">Vice President</text>
   </g>
