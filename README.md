@@ -9,19 +9,19 @@
 <table align="center" width="100%">
 <tr>
 <td width="64%" valign="top">
-  <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/082fac868aaef66da2b35d5a378386e8b79af896/assets/tech-stack-panel.svg" width="1000" alt="Illustrated icons for İlke's AI, backend, data, cloud, and engineering tools." />
+  <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/e314d5976b15b9a05dea2b5c6445200fcd4d7160/assets/tech-stack-panel.svg" width="1000" alt="Illustrated icons for İlke's AI, backend, data, cloud, and engineering tools." />
 </td>
 <td width="36%" valign="middle">
   <a href="https://github.com/IlkeOzcendek/Signify">
-    <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/082fac868aaef66da2b35d5a378386e8b79af896/assets/signal-signify.svg" width="540" alt="Open the Signify signature verification repository." />
+    <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/e314d5976b15b9a05dea2b5c6445200fcd4d7160/assets/signal-signify.svg" width="540" alt="Open the Signify signature verification repository." />
   </a>
   <br />
   <a href="https://github.com/IlkeOzcendek?tab=repositories">
-    <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/082fac868aaef66da2b35d5a378386e8b79af896/assets/signal-repositories.svg" width="540" alt="Explore İlke's public GitHub repositories." />
+    <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/e314d5976b15b9a05dea2b5c6445200fcd4d7160/assets/signal-repositories.svg" width="540" alt="Explore İlke's public GitHub repositories." />
   </a>
   <br />
   <a href="https://github.com/IlkeOzcendek?tab=overview">
-    <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/082fac868aaef66da2b35d5a378386e8b79af896/assets/signal-contributions.svg" width="540" alt="View İlke's GitHub contribution activity." />
+    <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/e314d5976b15b9a05dea2b5c6445200fcd4d7160/assets/signal-contributions.svg" width="540" alt="View İlke's GitHub contribution activity." />
   </a>
 </td>
 </tr>
