@@ -23,7 +23,9 @@
       .water{animation:shift 7s ease-in-out infinite}
       .cursor{animation:blink 1.1s steps(1,end) infinite}
       .softAction{stroke-opacity:.72}
-      .actionLight{animation:actionRun 8s linear infinite;opacity:.78;filter:drop-shadow(0 0 2px #38BDF8)}
+      .actionLight{animation:actionRun 8s linear infinite}
+      .actionHaze{opacity:.3;filter:blur(4px)}
+      .actionCore{opacity:.62;filter:blur(.35px)}
       .shootingStar{animation:shoot 14s ease-out infinite;opacity:0}
       @keyframes twinkle{50%{opacity:.12}}
       @keyframes shift{50%{transform:translateX(18px)}}
@@ -59,7 +61,8 @@
   </g>
   <g transform="translate(55 422)">
     <rect class="softAction" width="160" height="48" rx="8" fill="none" stroke="#38BDF8"/>
-    <rect class="actionLight" width="160" height="48" rx="8" fill="none" stroke="url(#actionGlow)" stroke-width="2.6" stroke-linecap="round" stroke-dasharray="76 340"/>
+    <rect class="actionLight actionHaze" width="160" height="48" rx="8" fill="none" stroke="url(#actionGlow)" stroke-width="9" stroke-linecap="round" stroke-dasharray="76 340"/>
+    <rect class="actionLight actionCore" width="160" height="48" rx="8" fill="none" stroke="url(#actionGlow)" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="76 340"/>
     <text x="20" y="31" fill="#F8FAFC" font-size="16">Let’s connect</text><text x="132" y="31" fill="#A78BFA" font-size="21">→</text>
   </g>
 </svg>
