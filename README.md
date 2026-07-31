@@ -29,7 +29,7 @@
 
 <img src="./assets/current-mission.svg?v=4" width="100%" alt="Current Mission: Microsoft AI Innovators, Signify, FlyRank, AWS Cloud Club, and reliable AI systems." />
 
-<img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/f3e115eb4cdbbe5e9d93ce7628d35f5eb81f91e9/assets/selected-projects-heading.svg" width="100%" alt="Selected Projects — real builds, honest progress and thoughtful engineering." />
+<img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/926b8e545b0de76eb40e213e16338fee8822c267/assets/selected-projects-heading.svg" width="100%" alt="Selected Projects — real builds, honest progress and thoughtful engineering." />
 
 <a href="https://github.com/IlkeOzcendek/Signify">
   <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/f3e115eb4cdbbe5e9d93ce7628d35f5eb81f91e9/assets/project-signify.svg" width="100%" alt="Signify — offline handwritten signature verification with Siamese neural networks." />
