@@ -47,10 +47,11 @@
 TED University ───── Computer Engineering
        │
        ├──────────── Control Systems minor
+       ├──────────── TÜRKTRUST · Internship · Signify origin
        ├──────────── FlyRank · Backend AI Engineering Intern
-       ├──────────── Microsoft AI Innovators · Incoming intern
+       ├──────────── Microsoft AI Innovators · Internship Program
        ├──────────── AWS Cloud Club · Vice President
-       └──────────── Signify · Building the next island
+       └──────────── Signify · Continuing development
 ```
 
 ## `git contributions --animate`
