@@ -43,7 +43,7 @@
 
 <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/f7301c5a013bb935d70e7b0a88808b8b93fd7605/assets/journey.svg" width="100%" alt="My journey — education, internships, engineering, community and continuing projects." />
 
-## `git contributions --animate`
+<img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/521c624cd5c2942f16536f122593d1c0e77a4a6f/assets/contribution-heading.svg" width="100%" alt="Contribution Trail — small commits, steady progress and useful systems." />
 
 <!-- Appears after the workflow publishes the output branch for the first time. -->
 <picture>
@@ -52,28 +52,10 @@
   <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/output/github-contribution-grid-snake.svg" alt="Animated contribution graph showing a snake moving across İlke's GitHub contributions" />
 </picture>
 
-<table>
-<tr>
-<td width="46%" valign="top">
+<img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/521c624cd5c2942f16536f122593d1c0e77a4a6f/assets/closing-panel.svg" width="100%" alt="Build things people can actually use. Keep learning. Keep shipping." />
 
-> **“Build things people can actually use.”**
->
-> Keep learning. Keep shipping.
-
-</td>
-<td width="54%" valign="top">
-
-### LET'S CONNECT
-
-Let’s talk about AI, backend engineering, cloud projects, or student developer communities.
-
-[LinkedIn](https://www.linkedin.com/in/ilke-%C3%B6z%C3%A7endek-b0404433b) · [Email](mailto:ozcendekilke@gmail.com)  
-[GitHub](https://github.com/IlkeOzcendek)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <sub>🌊 Exploring practical AI—one reliable system at a time.</sub>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ilke-%C3%B6z%C3%A7endek-b0404433b"><img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/521c624cd5c2942f16536f122593d1c0e77a4a6f/assets/contact-linkedin.svg" width="32%" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:ozcendekilke@gmail.com"><img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/521c624cd5c2942f16536f122593d1c0e77a4a6f/assets/contact-email.svg" width="32%" alt="Send an email" /></a>
+  <a href="https://github.com/IlkeOzcendek"><img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/521c624cd5c2942f16536f122593d1c0e77a4a6f/assets/contact-github.svg" width="32%" alt="Explore GitHub repositories" /></a>
+</p>
