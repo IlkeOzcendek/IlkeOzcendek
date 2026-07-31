@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 370 104" role="img" aria-label="Send an email">
+  <rect x="1" y="1" width="368" height="102" rx="18" fill="#0B1025" stroke="#7C5CE5" stroke-width="2"/>
+  <rect x="22" y="22" width="60" height="60" rx="15" fill="#8B5CF6" opacity=".20"/>
+  <path d="M37 40h30v24H37zM38 42l14 11 14-11" fill="none" stroke="#C4B5FD" stroke-width="2.5" stroke-linejoin="round"/>
+  <text x="101" y="47" fill="#F8FAFC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="21" font-weight="700">Email</text>
+  <text x="101" y="70" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12">start a conversation</text>
+  <path d="M329 52h15m-6-6 6 6-6 6" fill="none" stroke="#C4B5FD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
