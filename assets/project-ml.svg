@@ -30,7 +30,7 @@
       <circle class="node n4" cx="91" cy="87" r="8" fill="#111827"/>
     </g>
   </g>
-  <text x="172" y="48" fill="#FDBA74" font-family="ui-monospace,monospace" font-size="13" font-weight="700">IN DEVELOPMENT · DATA STRUCTURES</text><text x="172" y="83" fill="#F8FAFC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="30" font-weight="750">LLRB Tree Visualisation</text><text x="172" y="112" fill="#CBD5E1" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">An interactive way to explore rotations, color flips and balanced-tree operations</text>
+  <text x="172" y="48" fill="#FDBA74" font-family="ui-monospace,monospace" font-size="13" font-weight="700">IN DEVELOPMENT · DATA STRUCTURES</text><text x="172" y="83" fill="#F8FAFC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="30" font-weight="750">LLRB Tree Visualisation</text><text x="172" y="112" fill="#CBD5E1" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">An interactive way to explore rotations, color flips and balanced tree operations</text>
   <g font-family="ui-monospace,monospace" font-size="13" fill="#FED7AA" text-anchor="middle"><rect x="172" y="130" width="118" height="27" rx="13" fill="#7C2D12"/><text x="231" y="148">Interactive</text><rect x="300" y="130" width="134" height="27" rx="13" fill="#7C2D12"/><text x="367" y="148">Visualisation</text><rect x="444" y="130" width="112" height="27" rx="13" fill="#7C2D12"/><text x="500" y="148">Coming soon</text></g>
   <circle cx="934" cy="90" r="7" fill="#F97316"><animate attributeName="opacity" values=".3;1;.3" dur="2.8s" repeatCount="indefinite"/></circle>
 </svg>
