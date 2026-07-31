@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/ilke-%C3%B6z%C3%A7endek-b0404433b">
-    <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/52cab28973ad6182cbee4ca0d35a5500d9f86263/assets/banner-animated-workspace.svg" width="100%" alt="İlke Özçendek — AI and Backend Engineer, working at a laptop in an animated pixel-art night workspace." />
+    <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/650dce607c8597612e339c26091ba7fccf77f6db/assets/banner-animated-workspace.svg" width="100%" alt="İlke Özçendek — AI and Backend Engineer, working at a laptop in an animated pixel-art night workspace." />
   </a>
 </div>
 
@@ -13,15 +13,15 @@
 </td>
 <td width="36%" valign="middle">
   <a href="https://github.com/IlkeOzcendek/Signify">
-    <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/52cab28973ad6182cbee4ca0d35a5500d9f86263/assets/signal-signify.svg" width="540" alt="Open the Signify signature verification repository." />
+    <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/650dce607c8597612e339c26091ba7fccf77f6db/assets/signal-signify.svg" width="540" alt="Open the Signify signature verification repository." />
   </a>
   <br />
   <a href="https://github.com/IlkeOzcendek?tab=repositories">
-    <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/52cab28973ad6182cbee4ca0d35a5500d9f86263/assets/signal-repositories.svg" width="540" alt="Explore İlke's public GitHub repositories." />
+    <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/650dce607c8597612e339c26091ba7fccf77f6db/assets/signal-repositories.svg" width="540" alt="Explore İlke's public GitHub repositories." />
   </a>
   <br />
   <a href="https://github.com/IlkeOzcendek?tab=overview">
-    <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/52cab28973ad6182cbee4ca0d35a5500d9f86263/assets/signal-contributions.svg" width="540" alt="View İlke's GitHub contribution activity." />
+    <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/650dce607c8597612e339c26091ba7fccf77f6db/assets/signal-contributions.svg" width="540" alt="View İlke's GitHub contribution activity." />
   </a>
 </td>
 </tr>
