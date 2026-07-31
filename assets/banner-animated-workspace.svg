@@ -54,10 +54,22 @@
     <text y="214" fill="#CFFAFE" font-size="20" class="mono">solve real world problems.<tspan class="cursor">│</tspan></text>
   </g>
   <g transform="translate(56 350)" font-size="14" fill="#E2E8F0">
-    <text y="0">⌖  Ankara, Türkiye</text>
-    <text x="185" y="0">◈  Computer Engineering</text><text x="203" y="22" fill="#94A3B8">@ TED University</text>
-    <text x="440" y="0">▦  Microsoft AI Innovators</text><text x="458" y="22" fill="#94A3B8">Internship Program</text>
-    <text x="690" y="0">☁  AWS Cloud Club</text><text x="708" y="22" fill="#94A3B8">Vice President</text>
+    <g transform="translate(1 -14)" fill="none" stroke="#67E8F9" stroke-width="1.8">
+      <path d="M7 1.5A5.5 5.5 0 0 0 1.5 7C1.5 11.2 7 16 7 16s5.5-4.8 5.5-9A5.5 5.5 0 0 0 7 1.5Z"/><circle cx="7" cy="7" r="1.8" fill="#67E8F9" stroke="none"/>
+    </g>
+    <text x="20" y="0">Ankara, Türkiye</text>
+    <g transform="translate(185 -14)" fill="none" stroke="#A78BFA" stroke-width="1.6">
+      <rect x="2" y="2" width="12" height="12" rx="2"/><path d="M6 6h4v4H6zM0 5h2M0 9h2M14 5h2M14 9h2M5 0v2M9 0v2M5 14v2M9 14v2"/>
+    </g>
+    <text x="205" y="0">Computer Engineering</text><text x="205" y="22" fill="#94A3B8">@ TED University</text>
+    <g transform="translate(440 -13)">
+      <rect width="6" height="6" fill="#F25022"/><rect x="7" width="6" height="6" fill="#7FBA00"/><rect y="7" width="6" height="6" fill="#00A4EF"/><rect x="7" y="7" width="6" height="6" fill="#FFB900"/>
+    </g>
+    <text x="459" y="0">Microsoft AI Innovators</text><text x="459" y="22" fill="#94A3B8">Internship Program</text>
+    <g transform="translate(690 -13)" fill="none" stroke="#FB923C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M3 12.5h10.5a3 3 0 0 0 .4-6A4.8 4.8 0 0 0 4.8 5a3.8 3.8 0 0 0-1.8 7.5Z"/><path d="M4 15c3.2 1.5 7.3 1.4 10-.3"/>
+    </g>
+    <text x="710" y="0">AWS Cloud Club</text><text x="710" y="22" fill="#94A3B8">Vice President</text>
   </g>
   <g transform="translate(55 422)">
     <rect class="softAction" width="160" height="48" rx="8" fill="none" stroke="#38BDF8"/>
