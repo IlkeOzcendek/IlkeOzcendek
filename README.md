@@ -32,11 +32,11 @@
 <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/926b8e545b0de76eb40e213e16338fee8822c267/assets/selected-projects-heading.svg" width="100%" alt="Selected Projects — real builds, honest progress and thoughtful engineering." />
 
 <a href="https://github.com/IlkeOzcendek/Signify">
-  <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/f3e115eb4cdbbe5e9d93ce7628d35f5eb81f91e9/assets/project-signify.svg" width="100%" alt="Signify — offline handwritten signature verification with Siamese neural networks." />
+  <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/4b37c2631a2eae01d9daebf453bbeab3073f6b6e/assets/project-signify.svg" width="100%" alt="Signify — offline handwritten signature verification with Siamese neural networks." />
 </a>
 
 <a href="https://github.com/IlkeOzcendek/F1-Database-Project">
-  <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/f3e115eb4cdbbe5e9d93ce7628d35f5eb81f91e9/assets/project-backend.svg" width="100%" alt="F1 Database Project — a full-stack Formula 1 database system." />
+  <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/4b37c2631a2eae01d9daebf453bbeab3073f6b6e/assets/project-backend.svg" width="100%" alt="F1 Database Project — a full-stack Formula 1 database system." />
 </a>
 
 <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/f3e115eb4cdbbe5e9d93ce7628d35f5eb81f91e9/assets/project-ml.svg" width="100%" alt="LLRB Tree Visualisation — an interactive data structures project currently in development." />
