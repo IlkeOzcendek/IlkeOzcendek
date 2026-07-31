@@ -57,5 +57,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ilke-%C3%B6z%C3%A7endek-b0404433b"><img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/521c624cd5c2942f16536f122593d1c0e77a4a6f/assets/contact-linkedin.svg" width="32%" alt="Connect on LinkedIn" /></a>
   <a href="mailto:ozcendekilke@gmail.com"><img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/521c624cd5c2942f16536f122593d1c0e77a4a6f/assets/contact-email.svg" width="32%" alt="Send an email" /></a>
-  <a href="https://github.com/IlkeOzcendek"><img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/521c624cd5c2942f16536f122593d1c0e77a4a6f/assets/contact-github.svg" width="32%" alt="Explore GitHub repositories" /></a>
+  <a href="https://github.com/IlkeOzcendek"><img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/7f3e8686460bd8fd4151558b26fce65969049556/assets/contact-github.svg" width="32%" alt="Explore GitHub repositories" /></a>
 </p>
