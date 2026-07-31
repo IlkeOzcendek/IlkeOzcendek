@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 86" role="img" aria-labelledby="t d">
+  <title id="t">Selected Projects</title>
+  <desc id="d">Real builds and work currently in development</desc>
+  <defs><linearGradient id="accent" x1="0" x2="1"><stop stop-color="#38BDF8"/><stop offset=".52" stop-color="#8B5CF6"/><stop offset="1" stop-color="#F97316"/></linearGradient></defs>
+  <rect x="0" y="8" width="48" height="48" rx="13" fill="#111827"/>
+  <path d="M13 35L21 27L29 34L38 21" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="13" cy="35" r="3" fill="#38BDF8"/><circle cx="21" cy="27" r="3" fill="#67E8F9"/><circle cx="29" cy="34" r="3" fill="#A78BFA"/><circle cx="38" cy="21" r="3" fill="#F97316"/>
+  <text x="66" y="36" fill="#F8FAFC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="28" font-weight="750">SELECTED PROJECTS</text>
+  <text x="66" y="60" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">real builds · honest progress · thoughtful engineering</text>
+  <rect x="0" y="79" width="1000" height="1" fill="#334155"/>
+  <rect x="0" y="79" width="240" height="2" fill="url(#accent)" opacity=".75"/>
+</svg>
