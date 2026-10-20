@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/ilkeozcendek/">
-    <img src="./assets/banner-animated-workspace.svg?v=20261020-row3" width="100%" alt="İlke Özçendek — AI and Backend Engineer; Computer Engineering at TED University; Waggle, Microsoft AI Innovators 2026; Founding Vice President, AWS Student Builder Group at TED University." />
+    <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/main/assets/banner-animated-workspace.svg?v=20261020-row3" width="100%" alt="İlke Özçendek — AI and Backend Engineer; Computer Engineering at TED University; Waggle, Microsoft AI Innovators 2026; Founding Vice President, AWS Student Builder Group at TED University." />
   </a>
 </div>
 
