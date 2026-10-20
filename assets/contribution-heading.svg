@@ -13,6 +13,7 @@
       @media(prefers-reduced-motion:reduce){.pulse{animation:none}}
     </style>
   </defs>
+  <rect width="1200" height="92" fill="#0D1117"/>
   <rect x="0" y="7" width="48" height="48" rx="13" fill="#111827"/>
   <g transform="translate(12 16)">
     <rect x="0" y="17" width="6" height="6" rx="2" fill="#22D3EE"/>

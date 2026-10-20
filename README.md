@@ -27,7 +27,7 @@
 
 <img src="./assets/current-mission.svg?v=20261020" width="100%" alt="Current Mission: Waggle developed through Microsoft AI Innovators 2026; KESKİN thesis research; continuing Signify development and the FlyRank AI Internship Program; planning activities as Founding Vice President of the AWS Student Builder Group at TED University." />
 
-<img src="./assets/selected-projects-heading.svg" width="100%" alt="Selected Projects — real builds, honest progress and thoughtful engineering." />
+<img src="./assets/selected-projects-heading.svg?v=20261020-contrast2" width="100%" alt="Selected Projects — real builds, honest progress and thoughtful engineering." />
 
 <a href="https://github.com/IlkeOzcendek/waggle">
   <img src="./assets/project-waggle.svg?v=20261020" width="100%" alt="Waggle — hive-specific acoustic monitoring, anomaly detection and local AI reporting with Python, scikit-learn, ONNX, FastAPI and Microsoft Foundry Local." />
@@ -43,7 +43,7 @@
 
 <img src="./assets/journey.svg?v=20261020" width="100%" alt="My journey — TED University, Forte, TÜRKTRUST and Signify, FlyRank, Microsoft AI Innovators and Waggle, AWS Student Builder Group at TED University, and KESKİN capstone research." />
 
-<img src="./assets/contribution-heading.svg" width="100%" alt="Contribution Trail — small commits, steady progress and useful systems." />
+<img src="./assets/contribution-heading.svg?v=20261020-contrast2" width="100%" alt="Contribution Trail — small commits, steady progress and useful systems." />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/output/github-contribution-grid-snake-dark.svg" />
