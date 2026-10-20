@@ -38,7 +38,7 @@
 </a>
 
 <a href="https://ilkeozcendek.github.io/keskin/">
-  <img src="./assets/project-keskin.svg?v=20261020" width="100%" alt="KESKİN — ongoing capstone thesis research on super-resolution and object detection in SAR imagery. Implementation is planned for next semester. Open the project website." />
+  <img src="./assets/project-keskin.svg?v=20261020-logo2" width="100%" alt="KESKİN — ongoing capstone thesis research on super-resolution and object detection in SAR imagery. Implementation is planned for next semester. Open the project website." />
 </a>
 
 <img src="./assets/journey.svg?v=20261020" width="100%" alt="My journey — TED University, Forte, TÜRKTRUST and Signify, FlyRank, Microsoft AI Innovators and Waggle, AWS Student Builder Group at TED University, and KESKİN capstone research." />
