@@ -7,7 +7,7 @@
 <table align="center" width="100%">
 <tr>
 <td width="64%" valign="top">
-  <img src="./assets/tech-stack-panel.svg?v=20261020-aws2" width="1000" alt="Python, PyTorch, OpenCV, scikit-learn, FastAPI, SQLite, ONNX, AWS, Linux and Git." />
+  <img src="https://raw.githubusercontent.com/IlkeOzcendek/IlkeOzcendek/main/assets/tech-stack-panel.svg?v=20261020-aws3" width="1000" alt="Python, PyTorch, OpenCV, scikit-learn, FastAPI, SQLite, ONNX, AWS, Linux and Git." />
 </td>
 <td width="36%" valign="middle">
   <a href="https://github.com/IlkeOzcendek/waggle">
