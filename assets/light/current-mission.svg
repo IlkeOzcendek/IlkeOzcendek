@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">İlke Özçendek — Current Mission</title>
+  <desc id="desc">İlke's projects and community work: Waggle, KESKİN capstone research, Signify, the FlyRank AI Internship Program, and the AWS Student Builder Group at TED University.</desc>
+  <defs>
+    <linearGradient id="panelBg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F8FAFC" />
+      <stop offset="1" stop-color="#F4F7FB" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#087E98" />
+      <stop offset=".52" stop-color="#7152B8" />
+      <stop offset="1" stop-color="#B85B2A" />
+    </linearGradient>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="3" />
+    </filter>
+    <style>
+      text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+      .mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
+      .muted{fill:#52647B}
+      .label{fill:#52647B;font-size:13px;letter-spacing:1.4px}
+      .copy{fill:#52647B;font-size:18px}
+      .strong{fill:#162A46;font-weight:700}
+      .scan{opacity:0;animation:scan 19s ease-in-out infinite}
+      .s2{animation-delay:3s}.s3{animation-delay:6s}.s4{animation-delay:9s}.s5{animation-delay:12s}
+      .status{animation:pulse 3.4s ease-in-out infinite}
+      @keyframes scan{0%,14%,100%{opacity:0;transform:scaleX(.22)}5%,9%{opacity:.62;transform:scaleX(1)}}
+      @keyframes pulse{50%{opacity:.35}}
+      @media(prefers-reduced-motion:reduce){.scan,.status{animation:none}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="500" rx="22" fill="url(#panelBg)" />
+  <rect x="1" y="1" width="1198" height="498" rx="21" fill="none" stroke="#D9E3EE" stroke-width="2" />
+
+  <g transform="translate(44 34)">
+    <rect width="42" height="42" rx="11" fill="#E5EDF6" />
+    <g transform="translate(11 11)" fill="#087E98">
+      <rect x="0" y="11" width="5" height="9" rx="2" />
+      <rect x="8" y="0" width="5" height="20" rx="2" />
+      <rect x="16" y="6" width="5" height="14" rx="2" />
+    </g>
+    <text x="60" y="29" fill="#162A46" font-size="28" font-weight="700">CURRENT MISSION</text>
+    <text x="60" y="54" class="mono muted" font-size="12">what I’m building, learning and contributing to</text>
+
+    <g transform="translate(926 10)">
+      <circle class="status" cx="8" cy="8" r="5" fill="#087E98" />
+      <text x="24" y="13" class="mono muted" font-size="12" letter-spacing="1">IN PROGRESS</text>
+    </g>
+  </g>
+
+  <path d="M44 104H1156" stroke="#D9E3EE" />
+
+  <g transform="translate(44 118)">
+    <g>
+      <text x="18" y="40" class="mono muted" font-size="14">01</text>
+      <path d="M58 5V63" stroke="#087E98" stroke-width="2" opacity=".65" />
+      <text x="82" y="25" class="mono label">WAGGLE · MICROSOFT AI INNOVATORS 2026</text>
+      <text x="82" y="50" class="copy">Co-developed <tspan class="strong">Waggle</tspan> through the <tspan class="strong">Microsoft AI Innovators Summer Program 2026</tspan></text>
+      <path d="M82 66H1112" stroke="#D9E3EE" />
+      <rect class="scan" x="82" y="65" width="1030" height="1" fill="url(#accent)" transform-origin="center" />
+    </g>
+
+    <g transform="translate(0 72)">
+      <text x="18" y="40" class="mono muted" font-size="14">02</text>
+      <path d="M58 5V63" stroke="#7152B8" stroke-width="2" opacity=".65" />
+      <text x="82" y="25" class="mono label">KESKİN · CAPSTONE RESEARCH</text>
+      <text x="82" y="50" class="copy">Researching <tspan class="strong">SAR super-resolution and object detection</tspan>; implementation planned next semester</text>
+      <path d="M82 66H1112" stroke="#D9E3EE" />
+      <rect class="scan s2" x="82" y="65" width="1030" height="1" fill="url(#accent)" transform-origin="center" />
+    </g>
+
+    <g transform="translate(0 144)">
+      <text x="18" y="40" class="mono muted" font-size="14">03</text>
+      <path d="M58 5V63" stroke="#3569AD" stroke-width="2" opacity=".65" />
+      <text x="82" y="25" class="mono label">SIGNIFY · CONTINUING DEVELOPMENT</text>
+      <text x="82" y="50" class="copy">Continuing <tspan class="strong">Signify</tspan>, a signature verification project started during my <tspan class="strong">TÜRKTRUST internship</tspan></text>
+      <path d="M82 66H1112" stroke="#D9E3EE" />
+      <rect class="scan s3" x="82" y="65" width="1030" height="1" fill="url(#accent)" transform-origin="center" />
+    </g>
+
+    <g transform="translate(0 216)">
+      <text x="18" y="40" class="mono muted" font-size="14">04</text>
+      <path d="M58 5V63" stroke="#A66A13" stroke-width="2" opacity=".65" />
+      <text x="82" y="25" class="mono label">FLYRANK · AI &amp; BACKEND</text>
+      <text x="82" y="50" class="copy">Continuing the <tspan class="strong">FlyRank AI Internship Program</tspan> in <tspan class="strong">Backend AI Engineering</tspan></text>
+      <path d="M82 66H1112" stroke="#D9E3EE" />
+      <rect class="scan s4" x="82" y="65" width="1030" height="1" fill="url(#accent)" transform-origin="center" />
+    </g>
+
+    <g transform="translate(0 288)">
+      <text x="18" y="40" class="mono muted" font-size="14">05</text>
+      <path d="M58 5V63" stroke="#B85B2A" stroke-width="2" opacity=".65" />
+      <text x="82" y="25" class="mono label">COMMUNITY · AWS STUDENT BUILDER GROUP</text>
+      <text x="82" y="50" class="copy"><tspan class="strong">Founding Vice President at TED University</tspan>, planning technical activities and community partnerships</text>
+      <rect class="scan s5" x="82" y="65" width="1030" height="1" fill="url(#accent)" transform-origin="center" />
+    </g>
+  </g>
+</svg>

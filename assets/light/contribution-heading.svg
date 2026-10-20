@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 92" role="img" aria-labelledby="t d">
+  <title id="t">Contribution Trail</title>
+  <desc id="d">A visual trail of consistent learning, building and shipping.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop stop-color="#179DB5"/><stop offset=".52" stop-color="#9877D3"/><stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <style>
+      text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+      .mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
+      .pulse{animation:pulse 3.6s ease-in-out infinite}
+      @keyframes pulse{50%{opacity:.35}}
+      @media(prefers-reduced-motion:reduce){.pulse{animation:none}}
+    </style>
+  </defs>
+  <rect width="1200" height="92" fill="#FFFFFF"/>
+  <rect x="0" y="7" width="48" height="48" rx="13" fill="#E8EEF7"/>
+  <g transform="translate(12 16)">
+    <rect x="0" y="17" width="6" height="6" rx="2" fill="#179DB5"/>
+    <rect x="10" y="10" width="6" height="6" rx="2" fill="#3569AD"/>
+    <rect x="20" y="3" width="6" height="6" rx="2" fill="#7152B8"/>
+    <path d="M3 17L13 10L23 3" fill="none" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <text x="66" y="35" fill="#162A46" font-size="28" font-weight="750">CONTRIBUTION TRAIL</text>
+  <text x="66" y="59" fill="#52647B" class="mono" font-size="13">small commits · steady progress · useful systems</text>
+  <g transform="translate(1025 23)">
+    <circle class="pulse" cx="7" cy="7" r="5" fill="#179DB5"/>
+    <text x="22" y="12" fill="#52647B" class="mono" font-size="12" letter-spacing="1">BUILDING</text>
+  </g>
+  <rect x="0" y="82" width="1200" height="2" fill="url(#accent)" opacity=".58"/>
+</svg>

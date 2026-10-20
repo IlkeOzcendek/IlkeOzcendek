@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 180" role="img" aria-labelledby="t d">
+  <title id="t">Waggle — Acoustic Monitoring · Applied Ai</title><desc id="d">Hive-specific acoustic monitoring with anomaly detection and local AI reporting</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#FFFFFF"/><stop offset=".72" stop-color="#FFFCF5"/><stop offset="1" stop-color="#FFF7E5"/></linearGradient><filter id="soft"><feGaussianBlur stdDeviation="18"/></filter></defs>
+  <style>.mist{animation:mist 8.5s ease-in-out infinite}@keyframes mist{0%,100%{opacity:.012;transform:translateX(-22px)}50%{opacity:.045;transform:translateX(22px)}}.bee{animation:hover 6s ease-in-out infinite}@keyframes hover{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px)}}@media(prefers-reduced-motion:reduce){.mist,.bee{animation:none}.mist{opacity:.055}}</style>
+  <rect width="1000" height="180" rx="22" fill="url(#bg)"/><rect x="1" y="1" width="998" height="178" rx="21" fill="none" stroke="#D9BD83" stroke-width="1.35" stroke-opacity=".85"/><ellipse class="mist" cx="890" cy="90" rx="185" ry="88" fill="#9C6B18" filter="url(#soft)"/>
+  <g transform="translate(34 35)"><rect width="110" height="110" rx="26" fill="#5B3A16"/><g class="bee"><svg x="8" y="8" width="94" height="94" viewBox="0 0 64 64"><defs>
+    <clipPath id="waggle-bee-body"><ellipse cx="32" cy="35" rx="10" ry="13"/></clipPath>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#f7f4ec"/>
+  <path d="M32 6 55 18v28L32 58 9 46V18Z" fill="none" stroke="#e6d5b2" stroke-width="3"/>
+  <ellipse cx="21" cy="28" rx="7.5" ry="5" transform="rotate(-32 21 28)" fill="#ffffff" stroke="#c39a5c" stroke-width="2.1"/>
+  <ellipse cx="43" cy="28" rx="7.5" ry="5" transform="rotate(32 43 28)" fill="#ffffff" stroke="#c39a5c" stroke-width="2.1"/>
+  <ellipse cx="32" cy="35" rx="10" ry="13" fill="#df7000"/>
+  <g clip-path="url(#waggle-bee-body)" stroke="#2b2118" stroke-width="4.6">
+    <path d="M20 31h24"/>
+    <path d="M20 40h24"/>
+  </g>
+  <circle cx="32" cy="19" r="6.5" fill="#2b2118"/>
+  <g stroke="#2b2118" stroke-width="2.4" stroke-linecap="round" fill="none">
+    <path d="M29 14.5 26.5 9.5"/>
+    <path d="M35 14.5 37.5 9.5"/>
+  </g></svg></g></g>
+  <text x="172" y="48" fill="#9C6B18" font-family="ui-monospace,monospace" font-size="13" font-weight="700">ACOUSTIC MONITORING · APPLIED AI</text><text x="172" y="83" fill="#162A46" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="32" font-weight="750">Waggle</text><text x="172" y="112" fill="#455A75" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">Hive-specific acoustic monitoring with anomaly detection and local AI reporting</text>
+  <g font-family="ui-monospace,monospace" font-size="13" fill="#80591D" text-anchor="middle"><rect x="172" y="130" width="76" height="27" rx="13" fill="#F9E9C9"/><text x="210" y="148">Python</text><rect x="258" y="130" width="122" height="27" rx="13" fill="#F9E9C9"/><text x="319" y="148">scikit-learn</text><rect x="390" y="130" width="66" height="27" rx="13" fill="#F9E9C9"/><text x="423" y="148">ONNX</text><rect x="466" y="130" width="88" height="27" rx="13" fill="#F9E9C9"/><text x="510" y="148">FastAPI</text><rect x="564" y="130" width="136" height="27" rx="13" fill="#F9E9C9"/><text x="632" y="148">Foundry Local</text></g>
+  <g fill="none" stroke="#9C6B18" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M914 90H940"/><path d="M933 83L940 90L933 97"/></g>
+</svg>
