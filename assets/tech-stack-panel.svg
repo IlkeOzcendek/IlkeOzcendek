@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 390" role="img" aria-labelledby="title desc">
   <title id="title">İlke's technology stack</title>
-  <desc id="desc">Illustrated icons for Python, PyTorch, OpenCV, scikit-learn, FastAPI, PostgreSQL, Docker, AWS, Linux, and Git.</desc>
+  <desc id="desc">Illustrated icons for Python, PyTorch, OpenCV, scikit-learn, FastAPI, SQLite, ONNX, AWS, Linux, and Git.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050914"/><stop offset="1" stop-color="#0B1830"/></linearGradient>
     <linearGradient id="line" x1="0" y1="0" x2="1"><stop stop-color="#22D3EE"/><stop offset=".55" stop-color="#8B5CF6"/><stop offset="1" stop-color="#F97316"/></linearGradient>
@@ -28,8 +28,8 @@
   <text x="38" y="269" fill="#A78BFA" font-size="13" font-weight="700">BACKEND · DATA · CLOUD · ENGINEERING</text>
   <g transform="translate(38 284)">
     <g><rect class="tile" width="105" height="72" rx="12"/><circle cx="52.5" cy="28" r="17" fill="#009688"/><path d="M57 11L45 29h10l-6 15 15-21H54z" fill="#fff"/><text x="52.5" y="61" class="label">FastAPI</text></g>
-    <g transform="translate(115)"><rect class="tile" width="115" height="72" rx="12"/><path d="M45 16c0-7 25-7 25 0v22c0 7-25 7-25 0zM45 16c0 7 25 7 25 0M45 27c0 7 25 7 25 0" fill="none" stroke="#60A5FA" stroke-width="2"/><text x="57.5" y="61" class="label">PostgreSQL</text></g>
-    <g transform="translate(240)"><rect class="tile" width="105" height="72" rx="12"/><g transform="translate(36 15)" fill="#2496ED"><rect width="10" height="9"/><rect x="12" width="10" height="9"/><rect x="24" width="10" height="9"/><rect x="12" y="-11" width="10" height="9"/><path d="M-3 12h42c-2 13-12 18-27 18C1 30-3 23-3 12z"/></g><text x="52.5" y="61" class="label">Docker</text></g>
+    <g transform="translate(115)"><rect class="tile" width="115" height="72" rx="12"/><path d="M45 16c0-7 25-7 25 0v22c0 7-25 7-25 0zM45 16c0 7 25 7 25 0M45 27c0 7 25 7 25 0" fill="none" stroke="#60A5FA" stroke-width="2"/><text x="57.5" y="61" class="label">SQLite</text></g>
+    <g transform="translate(240)"><rect class="tile" width="105" height="72" rx="12"/><g transform="translate(52.5 28)" fill="none" stroke="#67E8F9" stroke-width="2"><path d="M0-17L15-8V9L0 17-15 9V-8ZM0-17V0L15 9M0 0L-15 9M-15-8L15-8M0 0V17"/><g fill="#0C1528"><circle cy="-17" r="3"/><circle cx="15" cy="-8" r="3"/><circle cx="15" cy="9" r="3"/><circle cy="17" r="3"/><circle cx="-15" cy="9" r="3"/><circle cx="-15" cy="-8" r="3"/><circle r="3"/></g></g><text x="52.5" y="61" class="label">ONNX</text></g>
     <g transform="translate(355)"><rect class="tile" width="105" height="72" rx="12"/><text x="52.5" y="30" fill="#F8FAFC" font-size="20" font-weight="700" text-anchor="middle">aws</text><path d="M25 37c18 9 38 7 55-3" fill="none" stroke="#F59E0B" stroke-width="3" stroke-linecap="round"/><text x="52.5" y="61" class="label">AWS</text></g>
     <g transform="translate(470)"><rect class="tile" width="105" height="72" rx="12"/><circle cx="52.5" cy="27" r="17" fill="#F8FAFC"/><path d="M52.5 12l-7 14 7 16 7-16z" fill="#111827"/><text x="52.5" y="61" class="label">Linux</text></g>
     <g transform="translate(585)"><rect class="tile" width="99" height="72" rx="12"/><path d="M49.5 14v28M49.5 21l14 9M49.5 34l-12-7" fill="none" stroke="#F97316" stroke-width="3"/><circle cx="49.5" cy="13" r="4" fill="#F97316"/><circle cx="64" cy="31" r="4" fill="#F97316"/><circle cx="36.5" cy="26" r="4" fill="#F97316"/><text x="49.5" y="61" class="label">Git</text></g>
